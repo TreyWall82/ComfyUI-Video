@@ -1,1 +1,1 @@
-# ComfyUI-NSFW
+# ComfyUI-Video
